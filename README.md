@@ -130,8 +130,8 @@ A software-based system designed to organize and manage information related to v
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithya&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithyam1006&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyam1006&layout=compact&theme=tokyonight" />
 </p>
 
 ---
