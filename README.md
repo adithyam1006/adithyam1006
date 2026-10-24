@@ -1,29 +1,208 @@
-<h1 align="center">Hi 👋, I'm Adithya m</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+# 👋 Hi, I'm Adithya M
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya&label=Profile%20views&color=0e75b6&style=flat" alt="adithya" /> </p>
+<h3 align="center">
+Computer Science Engineering Student | Data Analytics Enthusiast | Full-Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya" alt="adithya" /></a> </p>
-
-- 🔭 I’m currently working on **E-commerce for students using assistive learning technologies**
-
-- 🌱 I’m currently learning **data analyst**
-
-- 💬 Ask me about **full stack dev**
-
-- 📫 How to reach me **adithyam1006@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adithya m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya m" height="30" width="40" /></a>
-<a href="https://instagram.com/adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adithya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya&show_icons=true&locale=en&layout=compact" alt="adithya" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya&show_icons=true&locale=en" alt="adithya" /></p>
+🎓 I'm a **Computer Science Engineering student** passionate about technology, software development, and data analytics.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya&" alt="adithya" /></p>
+📊 I'm currently exploring **Data Analytics, Data Visualization, Python, SQL, and Machine Learning**.
+
+💻 I enjoy developing **full-stack web applications** and solving real-world problems using technology.
+
+🔭 I'm currently working on **E-Commerce for Students Using Assistive Learning Technologies**.
+
+🌱 I'm currently improving my skills in **Data Analytics, Python, SQL, Power BI, and Full-Stack Development**.
+
+💬 Ask me about **Python, Data Analytics, Web Development, SQL, and Full-Stack Development**.
+
+🎯 My goal is to build technology that is **accessible, useful, and impactful**.
+
+📫 Reach me at: **adithyam1006@gmail.com**
+
+---
+
+## 🚀 Current Project
+
+### 🎓 E-Commerce for Students Using Assistive Learning Technologies
+
+An accessibility-focused e-commerce and learning platform designed specifically for students.
+
+### ✨ Key Features
+
+- 📚 Buy and sell affordable academic books
+- 📄 Access educational materials in PDF format
+- ⬇️ Read learning materials online or download them
+- 🎥 Video-based educational resources for deaf and hard-of-hearing students
+- 🔊 Audio-based learning support for visually impaired students
+- ♿ Focus on accessible and inclusive education
+- 🤝 Student-to-student academic resource sharing
+
+**Goal:** Create an affordable and inclusive digital learning ecosystem where students can access academic resources regardless of financial or accessibility challenges.
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,flask" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### 📊 Data Analytics & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+**Libraries & Tools:**  
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🌐 Web Development Intern
+**Centre for Smart Governance | Bangalore**
+
+- Gaining practical experience in web development.
+- Working with modern web technologies and development practices.
+- Improving frontend, backend, and problem-solving skills.
+- Understanding real-world software development workflows.
+
+---
+
+## 🏆 Certifications & Training
+
+- 📜 L&T Construction Equipment LTD.
+- 📜 BSNL
+- 📜 All India Institute of Speech and Hearing
+- 📜 Edunet Foundation
+
+---
+
+## 📂 Projects
+
+### 🎓 E-Commerce for Students
+**Assistive Learning & E-Commerce Platform**
+
+A student-focused platform that combines affordable academic resource sharing with accessibility features.
+
+`Web Development` `Accessibility` `E-Commerce` `Education`
+
+---
+
+### 🏡 Village Development System
+
+A software-based system designed to organize and manage information related to village development activities.
+
+`Python` `Database` `Software Development`
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adithya&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithya&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+📊 Data Analytics
+🐍 Python
+🗄️ SQL
+📈 Data Visualization
+🤖 Machine Learning
+🌐 Full-Stack Development
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/adithya-m">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://instagram.com/adithya">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="mailto:adithyam1006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> "Learning never stops, and every project is an opportunity to build something better."
+
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
+</p>
+
+<p align="center">
+<i>Let's connect, collaborate, and build something amazing.</i>
+</p>
