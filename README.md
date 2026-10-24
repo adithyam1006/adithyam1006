@@ -5,7 +5,7 @@ Computer Science Engineering Student | Data Analytics Enthusiast | Full-Stack De
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adithya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adithyam1006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -101,10 +101,10 @@ Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
 
 ## 🏆 Certifications & Training
 
-- 📜 L&T Construction Equipment LTD.
-- 📜 BSNL
-- 📜 All India Institute of Speech and Hearing
-- 📜 Edunet Foundation
+- 📜 data analysis with python
+- 📜 Infosys certificate
+- 📜 MongoDB Database
+- 📜AWS Devops certificate 
 
 ---
 
@@ -139,7 +139,7 @@ A software-based system designed to organize and manage information related to v
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adithya&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=adithyam1006&theme=tokyonight" />
 </p>
 
 ---
@@ -147,7 +147,7 @@ A software-based system designed to organize and manage information related to v
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adithya&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyam1006&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -155,7 +155,7 @@ A software-based system designed to organize and manage information related to v
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyam1006&theme=tokyo-night" />
 </p>
 
 ---
